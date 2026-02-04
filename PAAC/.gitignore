@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Django
+*.log
+*.pot
+*.pyc
+media/
+staticfiles/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.coverage
+coverage.xml
+htmlcov/
+*.mo
+*.DS_Store
+
+# PyCharm / VS Code
+.idea/
+.vscode/
+
+# Byte-compiled / cache files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environment variables
+.env
